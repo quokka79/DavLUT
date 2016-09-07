@@ -30,15 +30,13 @@ plot(1:LUT_bins,CustomColorMap(:,3),'b')
 xlabel('Cmap Index')
 ylabel('Intensity')
 axis([0 LUT_bins 0 1])
-title([{'RGB Intensity';CustomCMapTitle}]);
+title({'RGB Intensity';CustomCMapTitle});
 legend({'R','G','B'},'Location','northeastoutside','FontSize',6,'FontWeight','normal')
 axis square tight
 
 % show demo data using the Peaks function
 subplot(1,3,2)
-peaks(500);
-peaks_surf = findobj('EdgeColor','k');
-set(peaks_surf,'EdgeColor','none');
+surf(peaks(500), 'EdgeColor', 'none')
 title(['Peaks - ',CustomCMapTitle]);
 view(2)
 axis tight square
@@ -47,9 +45,7 @@ axis square tight
 colorbar('eastoutside')
 
 subplot(1,3,3)
-peaks(500);
-peaks_surf = findobj('EdgeColor','k');
-set(peaks_surf,'EdgeColor','none');
+surf(peaks(500), 'EdgeColor', 'none')
 title(['Peaks - ',CustomCMapTitle]);
 colormap(CustomColorMap);
 axis square tight
