@@ -23,7 +23,9 @@ end
 if nargin < 2
     BrightnessMin = 0.4;
     BrightnessMax = 1;
-else
+end
+
+if nargin < 3 || nargin > 3
     error('Need to supply 0, 1, or 3 arguments!');
 end
 

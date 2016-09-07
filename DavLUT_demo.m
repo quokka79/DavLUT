@@ -9,12 +9,13 @@ BrightnessMax = 1;      % reduce brightness of the highest bin to this factor
 CustomColorMap = DavLUTgen(LUT_bins,BrightnessMin,BrightnessMax);
 CustomCMapTitle = 'DavLUT';
 
-% % uncomment to compare against other colormaps
-% CustomColorMap = parula(LUT_bins);
-% CustomCMapTitle = 'MATLAB - Parula';
-% 
-% CustomColorMap = jet(LUT_bins);
-% CustomCMapTitle = 'MATLAB - Jet';
+% uncomment to compare against other colormaps:
+
+    % CustomColorMap = parula(LUT_bins);
+    % CustomCMapTitle = 'MATLAB - Parula';
+
+    % CustomColorMap = jet(LUT_bins);
+    % CustomCMapTitle = 'MATLAB - Jet';
 
 
 % Show RGB values and peaks demo
@@ -29,7 +30,7 @@ plot(1:LUT_bins,CustomColorMap(:,3),'b')
 xlabel('Cmap Index')
 ylabel('Intensity')
 axis([0 LUT_bins 0 1])
-title(['RGB Intensity - ',CustomCMapTitle]);
+title([{'RGB Intensity';CustomCMapTitle}]);
 legend({'R','G','B'},'Location','northeastoutside','FontSize',6,'FontWeight','normal')
 axis square tight
 
