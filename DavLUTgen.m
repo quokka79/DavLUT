@@ -25,9 +25,9 @@ if nargin < 2
     BrightnessMax = 1;
 end
 
-if nargin < 3 || nargin > 3
-    error('Need to supply 0, 1, or 3 arguments!');
-end
+% if nargin < 3 || nargin > 3
+%     error('Need to supply 0, 1, or 3 arguments!');
+% end
 
 LUT_idx = 0:(ColourBins-1);
 
