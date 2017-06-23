@@ -1,0 +1,19 @@
+Making flat 3D SMLM images, coloured by z-position
+
+I often forget how to do this, so I will write it here for, at the very least, my own sake.
+
+1. Get your 3D data open in ThunderSTORM (process something or import something)
+2. Click the 'Visualisation' button
+    a. Set Magnification to something nice, like 10
+    b. Set your z-range to something a bit tight so that your data are spread out across the full 'spectrum' of your LUT.
+    c. Uncheck 'colorize by Z'
+    d. Generate the image
+3. Click Image > Hyperstack > Temporal Color Code
+    a. It should tell you that your slices and your frames have been switched. You can do this yourself beforehand via Image > Hyperstack > Re-order Hyperstack if you wish.
+    b. Select your favourite LUT from the menu and click Apply.
+    c. You should get a new image window with the flattened, coloured-by-z image.
+
+The images in this folder were created with:
+Z range (from:step:to)[nm] = -200:10:250 i.e. all colour bars in this folder cover this range ... the Temporal Color Coding puts a frame number in the colour bar.
+Magnification=10
+Method=Normalized Gaussian
