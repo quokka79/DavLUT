@@ -1,6 +1,6 @@
-#Sample Images
+# Sample Images
 
-##Making 'flat' 3D SMLM images, coloured by z-position
+## Making 'flat' 3D SMLM images, coloured by z-position
 
 I often forget how to do this, so I will write it here for, at the very least, my own sake.
 
