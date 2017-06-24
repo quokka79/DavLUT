@@ -17,16 +17,6 @@ I created this LUT as a color-blind friendly scheme, in that it should be less-a
 
 ### Simulated Dichromacy
 
-The demo image, as seen by someone with protanopia:
-
-![DavLUT - Protanope](Color%20Deficiency%20Checks/DavLUT-Bright-Inverted_colour.png-Protanope.png?raw=true "DavLUT - Protanope")
-
-The demo image, as seen by someone with deutanopia:
-
-![DavLUT - Deuteranope](Color%20Deficiency%20Checks/DavLUT-Bright-Inverted_colour.png-Deuteranope.png?raw=true "DavLUT - Deuteranope")
-
-The demo image, as seen by someone with tritanopia:
-
-![DavLUT - Tritanope](Color%20Deficiency%20Checks/DavLUT-Bright-Inverted_colour.png-Tritanope.png?raw=true "DavLUT - Tritanope")
+Check out the 'Color Deficiency Checks' folder for simulated colourblindness images of all the LUTs in this folder.
 
 
