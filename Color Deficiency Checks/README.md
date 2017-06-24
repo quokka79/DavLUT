@@ -9,24 +9,47 @@ I would certainly appreciate any feedback from people with colour vision deficie
 ## Broad Visibility
 The spectrum remains smooth and separable across all the filters.
 
-![Blue2Yel Montage LUT](Blue2Yel Montage.png?raw=true "Blue2Yel Montage LUT")
-![Candy LUT](Candy Montage.png?raw=true "Candy LUT")
-![Candy Bright LUT](Candy Bright Montage.png?raw=true "Candy Bright LUT")
-![DavLUT LUT](DavLUT Montage.png?raw=true "DavLUT LUT")
-![DavLUT Bright LUT](DavLUT Bright Montage.png?raw=true "DavLUT Bright LUT")
-![Parula LUT](Parula Montage.png?raw=true "Parula LUT")
-![PeachPassion LUT](PeachPassion Montage.png?raw=true "PeachPassion LUT")
+### Blu2Yel
+![Blu2Yel LUT](Blue2Yel%20Montage.png?raw=true "Blu2Yel LUT")
+
+### Candy
+![Candy LUT](Candy%20Montage.png?raw=true "Candy LUT")
+
+### Candy Bright
+![Candy Bright LUT](Candy%20Bright%20Montage.png?raw=true "Candy Bright LUT")
+
+### DaveLUT
+![DavLUT LUT](DavLUT%20Montage.png?raw=true "DavLUT LUT")
+
+### DavLUT Bright
+![DavLUT Bright LUT](DavLUT%20Bright%20Montage.png?raw=true "DavLUT Bright LUT")
+
+### Parula
+![Parula LUT](Parula%20Montage.png?raw=true "Parula LUT")
+
+### PeachPassion
+![PeachPassion LUT](PeachPassion%20Montage.png?raw=true "PeachPassion LUT")
 
 ## Passable Visibility
 The colours are generally separable but there might be problems like colour reuse or lack of definition within parts of the spectrum.
 
-![CharleyHorse LUT](CharleyHorse Montage.png?raw=true "CharleyHorse LUT")
-![VioletCrumble LUT](VioletCrumble Montage.png?raw=true "VioletCrumble LUT")
-![DavFire LUT](DavFire Montage.png?raw=true "DavFire LUT")
-![Jet LUT](Jet Montage.png?raw=true "Jet LUT")
+### CharleyHorse
+![CharleyHorse LUT](CharleyHorse%20Montage.png?raw=true "CharleyHorse LUT")
+
+### VioletCrumble
+![VioletCrumble LUT](VioletCrumble%20Montage.png?raw=true "VioletCrumble LUT")
+
+### DavFire
+![DavFire LUT](DavFire%20Montage.png?raw=true "DavFire LUT")
+
+### Jet
+![Jet LUT](Jet%20Montage.png?raw=true "Jet LUT")
 
 ## Poor Visibility
 Here it becomes very difficult to tell parts of the spectrum apart
 
-![Bubblegum LUT](Bubblegum Montage.png?raw=true "Bubblegum LUT")
-![MerryLUTmas LUT](MerryLUTmas Montage.png?raw=true "MerryLUTmas LUT")
+### Bubblegum
+![Bubblegum LUT](Bubblegum%20Montage.png?raw=true "Bubblegum LUT")
+
+### MerryLUTmas
+![MerryLUTmas LUT](MerryLUTmas%20Montage.png?raw=true "MerryLUTmas LUT")
