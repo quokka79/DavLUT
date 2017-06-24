@@ -1,6 +1,6 @@
 # Color Deficiency Checks
 
-These images were created in FiJi (ImageJ2) using the Image > Color > Dichromacy plugin and help to highlight how some LUTs are useless for around 8% of men and 0.5% of women with colour vision deficiency (CVD).
+These images were created in FiJi (ImageJ2) using the Image > Color > Dichromacy plugin and help to highlight how some LUTs are useless for people with colour vision deficiency (CVD), which is around 8% of men and 0.5% of women.
 
 I have quickly rated these LUTs for obvious problems in the CVD-filtered images. These ratings do not take into account other factors that might make a LUT suitable, such as greyscale conversion, or perceptual uniformity.
 
