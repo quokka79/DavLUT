@@ -15,6 +15,8 @@ I created this LUT as a color-blind friendly scheme, in that it should be less-a
 
 ![DavLUT](DavLUT/DavLUT_colour.png?raw=true "DavLUT")
 
+![DavLUT-Bright](./Sample%20Images/Microtubules/DavLUT-Bright%20(low%20as%20min).png "DavLUT-Bright - Microtubules")
+
 ### Simulated Dichromacy
 
 Check out the 'Color Deficiency Checks' folder for simulated colourblindness images of all the LUTs in this folder.
